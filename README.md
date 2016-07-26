@@ -1,4 +1,4 @@
-# Word Level RNN for Text Generation
+# Word-Level RNN for Text Generation
 
 <ul>
   <li>Built on Theano/Keras</li>
